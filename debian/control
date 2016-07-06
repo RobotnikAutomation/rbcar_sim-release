@@ -1,0 +1,13 @@
+Source: ros-indigo-rbcar-sim
+Section: misc
+Priority: extra
+Maintainer: Carlos Villar <cvillar@robotnik.es>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: http://wiki.ros.org/rbcar_sim
+Standards-Version: 3.9.2
+
+Package: ros-indigo-rbcar-sim
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-rbcar-control, ros-indigo-rbcar-gazebo, ros-indigo-rbcar-joystick, ros-indigo-rbcar-robot-control, ros-indigo-rbcar-sim-bringup
+Description: The rbcar_sim package.
+ It contains RBCAR simulation packages
