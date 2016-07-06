@@ -1,0 +1,18 @@
+ros-indigo-rbcar-joystick (1.0.2-0saucy) saucy; urgency=high
+
+  * Modified authors and maintainers
+  * modified CMakeLists y Package files
+  * Contributors: carlos3dx
+
+ -- Carlos Villar <cvillar@robotnik.es>  Tue, 05 Jul 2016 22:00:00 -0000
+
+ros-indigo-rbcar-joystick (1.0.1-0saucy) saucy; urgency=high
+
+  * Modified CMakeLists and package files
+  * Adding compilation dependencies with robotnik_msgs
+  * added rbcar_joystick
+  * Contributors: Usuario, carlos3dx, rguzman
+
+ -- Carlos Villar <cvillar@robotnik.es>  Sun, 03 Jul 2016 22:00:00 -0000
+
+
