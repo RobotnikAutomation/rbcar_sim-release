@@ -1,0 +1,12 @@
+Source: ros-indigo-rbcar-robot-control
+Section: misc
+Priority: extra
+Maintainer: Carlos Villar <cvillar@robotnik.es>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-ackermann-msgs, ros-indigo-catkin, ros-indigo-diagnostic-msgs, ros-indigo-diagnostic-updater, ros-indigo-geometry-msgs, ros-indigo-nav-msgs, ros-indigo-robotnik-msgs, ros-indigo-roscpp, ros-indigo-sensor-msgs, ros-indigo-tf
+Homepage: http://wiki.ros.org/rbcar_robot_control
+Standards-Version: 3.9.2
+
+Package: ros-indigo-rbcar-robot-control
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-ackermann-msgs, ros-indigo-geometry-msgs, ros-indigo-nav-msgs, ros-indigo-robotnik-msgs, ros-indigo-roscpp, ros-indigo-sensor-msgs, ros-indigo-tf
+Description: The rbcar_robot_control package
