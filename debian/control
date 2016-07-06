@@ -1,0 +1,12 @@
+Source: ros-indigo-rbcar-sim-bringup
+Section: misc
+Priority: extra
+Maintainer: Carlos Villar <cvillar@robotnik.es>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: http://wiki.ros.org/rbcar_sim_bringup
+Standards-Version: 3.9.2
+
+Package: ros-indigo-rbcar-sim-bringup
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: The rbcar_sim_bringup package
