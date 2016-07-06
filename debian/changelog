@@ -1,0 +1,21 @@
+ros-indigo-rbcar-sim-bringup (1.0.2-0saucy) saucy; urgency=high
+
+  * Modified authors and maintainers
+  * modified CMakeLists y Package files
+  * Contributors: carlos3dx
+
+ -- Carlos Villar <cvillar@robotnik.es>  Tue, 05 Jul 2016 22:00:00 -0000
+
+ros-indigo-rbcar-sim-bringup (1.0.1-0saucy) saucy; urgency=high
+
+  * Modified CMakeLists and package files
+  * added cfg for gps and odom robot_localization
+  * added marker size to view them when the rbcar is on them
+  * added purepursuit custom launch files
+  * added sim bringup
+  * added rbcar_sim_bringup
+  * Contributors: carlos3dx, rguzman, rguzman1
+
+ -- Carlos Villar <cvillar@robotnik.es>  Sun, 03 Jul 2016 22:00:00 -0000
+
+
