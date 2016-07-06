@@ -1,0 +1,12 @@
+Source: ros-indigo-rbcar-gazebo
+Section: misc
+Priority: extra
+Maintainer: Carlos Villar <cvillar@robotnik.es>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-gazebo-ros, ros-indigo-rbcar-control, ros-indigo-rbcar-description, ros-indigo-roscpp, ros-indigo-std-msgs, ros-indigo-std-srvs, ros-indigo-tf
+Homepage: http://wiki.ros.org/rbcar_gazebo
+Standards-Version: 3.9.2
+
+Package: ros-indigo-rbcar-gazebo
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-gazebo-ros, ros-indigo-rbcar-control, ros-indigo-rbcar-description, ros-indigo-roscpp, ros-indigo-std-msgs, ros-indigo-std-srvs, ros-indigo-tf
+Description: The rbcar_gazebo package
