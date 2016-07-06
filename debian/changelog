@@ -1,0 +1,16 @@
+ros-indigo-rbcar-sim (1.0.2-0saucy) saucy; urgency=high
+
+  * Modified authors and maintainers
+  * Contributors: carlos3dx
+
+ -- Carlos Villar <cvillar@robotnik.es>  Tue, 05 Jul 2016 22:00:00 -0000
+
+ros-indigo-rbcar-sim (1.0.1-0saucy) saucy; urgency=high
+
+  * Modified CMakeLists and package files
+  * added rbcar_sim
+  * Contributors: carlos3dx, rguzman
+
+ -- Carlos Villar <cvillar@robotnik.es>  Sun, 03 Jul 2016 22:00:00 -0000
+
+
