@@ -2,6 +2,15 @@
 Changelog for package rbcar_control
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.4 (2016-07-15)
+------------------
+* added twist_mux cfg file
+* added twist mux to accept different inputs a twist
+* Contributors: rguzman1
+
+1.0.3 (2016-07-13)
+------------------
+
 1.0.2 (2016-07-06)
 ------------------
 * Modified authors and maintainers
