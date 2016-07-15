@@ -1,0 +1,36 @@
+ros-kinetic-rbcar-control (1.0.4-0wily) wily; urgency=high
+
+  * added twist_mux cfg file
+  * added twist mux to accept different inputs a twist
+  * Contributors: rguzman1
+
+ -- Carlos Villar <cvillar@robotnik.es>  Thu, 14 Jul 2016 22:00:00 -0000
+
+ros-kinetic-rbcar-control (1.0.3-0wily) wily; urgency=high
+
+
+
+ -- Carlos Villar <cvillar@robotnik.es>  Tue, 12 Jul 2016 22:00:00 -0000
+
+ros-kinetic-rbcar-control (1.0.2-0wily) wily; urgency=high
+
+  * Modified authors and maintainers
+  * modified CMakeLists y Package files
+  * Contributors: carlos3dx
+
+ -- Carlos Villar <cvillar@robotnik.es>  Tue, 05 Jul 2016 22:00:00 -0000
+
+ros-kinetic-rbcar-control (1.0.1-0wily) wily; urgency=high
+
+  * Modified CMakeLists and package files
+  * added gs world
+  * changed traction controllers to JointVelocityController
+  * updated controller parameters
+  * updated CMakelists.txt and package.xml
+  * updated controller parameters - inertia and mass still to be checked
+  * added rbcar_control
+  * Contributors: carlos3dx, rguzman, rguzman1, trurl
+
+ -- Carlos Villar <cvillar@robotnik.es>  Sun, 03 Jul 2016 22:00:00 -0000
+
+
