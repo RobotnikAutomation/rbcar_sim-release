@@ -1,0 +1,12 @@
+Source: ros-kinetic-rbcar-joystick
+Section: misc
+Priority: extra
+Maintainer: Carlos Villar <cvillar@robotnik.es>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-ackermann-msgs, ros-kinetic-catkin, ros-kinetic-diagnostic-msgs, ros-kinetic-diagnostic-updater, ros-kinetic-geometry-msgs, ros-kinetic-nav-msgs, ros-kinetic-robotnik-msgs, ros-kinetic-roscpp, ros-kinetic-sensor-msgs, ros-kinetic-std-msgs, ros-kinetic-std-srvs
+Homepage: http://wiki.ros.org/rbcar_joystick
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-rbcar-joystick
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-ackermann-msgs, ros-kinetic-diagnostic-msgs, ros-kinetic-diagnostic-updater, ros-kinetic-geometry-msgs, ros-kinetic-nav-msgs, ros-kinetic-robotnik-msgs, ros-kinetic-roscpp, ros-kinetic-sensor-msgs, ros-kinetic-std-msgs, ros-kinetic-std-srvs
+Description: The rbcar_joystick package
